@@ -18,16 +18,6 @@ export const WORDS = [
  'akrim',
  'giner',
  'leooo',
- 'black',
- 'black',
- 'black',
- 'black',
- 'black',
- 'black',
- 'black',
- 'black',
- 'black',
- 'black',
-
+ '
  
 ]
