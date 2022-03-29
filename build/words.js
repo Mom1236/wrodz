@@ -9,5 +9,15 @@ export const WORDS = [
  'nimtz',
  'olson',
  'liner',
+ 'nigga',
+ 'dhodi',
+ 'andre',
+ 'jason',
+ 'allen',
+ 'cason',
+ 'akrim',
+ 'leooo',
+ 
+ 
  
 ]
