@@ -3,8 +3,6 @@ export const WORDS = [
  'naami',
  'gonzo',
  'arjan',
- 'shayon',
  'nayan',
- 'daksheeth',
- 'dharshan',
+ 'ethan',
 ]
