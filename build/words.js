@@ -5,4 +5,9 @@ export const WORDS = [
  'arjan',
  'nayan',
  'ethan',
+ 'reyes',
+ 'nimtz',
+ 'olson',
+ 'liner',
+ 
 ]
