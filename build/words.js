@@ -15,8 +15,9 @@ export const WORDS = [
  'jason',
  'allen',
  'cason',
- 'akrim',
+ 'akram',
  'giner',
+ 
  'leooo',
  
  
