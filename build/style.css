@@ -49,7 +49,7 @@ font-family: 'Open Sans', sans-serif;
 .keyboard-button {
   font-size: 1rem;
   font-weight: 800;
-  padding: 0.5rem;
+  padding: 0.2rem;
   margin: 0 2px;
   cursor: pointer;
   text-transform: uppercase;
