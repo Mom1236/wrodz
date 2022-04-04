@@ -18,7 +18,7 @@ export const WORDS = [
  'akram',
  'giner',
  'ivann',
- 
+ 'krish',
  'leooo',
  
  
